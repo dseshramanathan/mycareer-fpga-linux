@@ -21,8 +21,8 @@ Welcome to my personal roadmap. This is where I document my learning, mini-proje
 ### June 2025
 
 **Week 3**
-- [x] Completed Linux kernel basics
-- [x] Built first character driver
+- [ ] Completed Linux kernel basics
+- [ ] Built first character driver
 - [ ] Explored device tree on ARM board
 
 **Week 4**
@@ -36,8 +36,8 @@ Welcome to my personal roadmap. This is where I document my learning, mini-proje
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| `led-char-driver` | Character driver to toggle LED on ARM board | ✅ Completed |
-| `gpio-interrupt-demo` | Basic IRQ-driven button driver | 🔄 In Progress |
+| `led-char-driver` | Character driver to toggle LED on ARM board | ❌ Not-Started |
+| `gpio-interrupt-demo` | Basic IRQ-driven button driver | ❌ Not-Started |
 | `fpga-uart` | UART module in Verilog + simulation | 🕒 Upcoming |
 
 ---
